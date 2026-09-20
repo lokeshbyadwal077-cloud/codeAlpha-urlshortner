@@ -42,22 +42,40 @@ ________________________________________________________________________________
 CodeAlpha_URLShortener/
 │
 ├── config/
+
 │   └── db.js
+
 ├── controllers/
+
 │   └── urlController.js
+
 ├── models/
+
 │   └── Url.js
+
+
 ├── routes/
+
 │   └── urlRoutes.js
+
 ├── public/
+
 │   ├── index.html
+
 │   ├── style.css
+
 │   ├── script.js
+
 │   └── 404.html
+
 ├── .env
+
 ├── .gitignore
+
 ├── package.json
+
 ├── server.js
+
 └── README.md
 
 ____________________________________________________________________________________________________________________________________________________
