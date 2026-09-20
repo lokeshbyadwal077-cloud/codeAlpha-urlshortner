@@ -44,7 +44,7 @@ CodeAlpha_URLShortener/
 └── README.md
 ⚙️ Installation
 1. Clone the Repository
-git clone https://github.com/manishmehra95/CodeAlpha_URLShortener.git
+git clone https://github.com/lokeshbyadwal077/CodeAlpha_URLShortener.git
 2. Navigate to Project
 cd CodeAlpha_URLShortener
 3. Install Dependencies
