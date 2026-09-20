@@ -1,10 +1,13 @@
 CodeAlpha project
+
 url shortner
 
 🔗 CodeAlpha URL Shortener
-A simple and responsive URL Shortener built using Node.js, Express.js, and MongoDB. This application converts long URLs into short, shareable links and redirects users to the original website using the generated short URL.
 
+A simple and responsive URL Shortener built using Node.js, Express.js, and MongoDB. This application converts long URLs into short, shareable links and redirects users to the original website using the generated short URL.
+____________________________________________________________________________________________________________________________________________________
 🚀 Features
+
 ✅ Shorten long URLs
 ✅ Generate unique short codes
 ✅ Custom alias support
@@ -21,7 +24,9 @@ Frontend: HTML, CSS, JavaScript
 Backend: Node.js, Express.js
 Database: MongoDB (Mongoose)
 Packages: nanoid, valid-url, dotenv, cors
+____________________________________________________________________________________________________________________________________________________
 📁 Project Structure
+
 CodeAlpha_URLShortener/
 │
 ├── config/
@@ -42,7 +47,9 @@ CodeAlpha_URLShortener/
 ├── package.json
 ├── server.js
 └── README.md
+____________________________________________________________________________________________________________________________________________________
 ⚙️ Installation
+
 1. Clone the Repository
 git clone https://github.com/lokeshbyadwal077/CodeAlpha_URLShortener.git
 2. Navigate to Project
@@ -58,7 +65,9 @@ npm start
 For development:
 
 npm run dev
+____________________________________________________________________________________________________________________________________________________
 📌 API Endpoints
+
 Shorten URL
 POST /api/shorten
 
@@ -75,18 +84,25 @@ Response
     "shortUrl": "http://localhost:5000/abc123"
   }
 }
+____________________________________________________________________________________________________________________________________________________
 Redirect
+
 GET /:shortCode
 Example
 
 http://localhost:5000/abc123
 Automatically redirects to the original URL.
-
+____________________________________________________________________________________________________________________________________________________
 Get URL Statistics
+
 GET /api/stats/:shortCode
+____________________________________________________________________________________________________________________________________________________
 Delete URL
+
 DELETE /api/url/:shortCode
+____________________________________________________________________________________________________________________________________________________
 📸 Screenshots
+
 Add screenshots of:
 
 Home Page
@@ -94,19 +110,24 @@ URL Shortened Successfully
 QR Code
 MongoDB Collection
 Redirect Working
+____________________________________________________________________________________________________________________________________________________
 🔮 Future Improvements
+
 User Authentication
 Custom Dashboard
 URL Analytics
 URL Expiration Notifications
 Password Protected URLs
+____________________________________________________________________________________________________________________________________________________
 👨‍💻 Author
+
 Lokesh Meena
 
 🎓 BCA Student
 💻 Full Stack Web Developer
 🌱 Learning Java, Node.js
 GitHub: https://github.com/in/Lokesh-Meena007LinkedIn:www.linkedin.com/in/lokesh-meena-1b4a09383
-
+____________________________________________________________________________________________________________________________________________________
 📄 License
+
 This project was developed as part of the CodeAlpha Internship Program for educational and learning purposes.
