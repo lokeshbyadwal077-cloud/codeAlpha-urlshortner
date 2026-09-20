@@ -29,24 +29,43 @@ ________________________________________________________________________________
 
 CodeAlpha_URLShortener/
 │
+
 ├── config/
+
 │   └── db.js
+
 ├── controllers/
+
 │   └── urlController.js
+
 ├── models/
+
 │   └── Url.js
+
 ├── routes/
+
 │   └── urlRoutes.js
+
 ├── public/
+
 │   ├── index.html
+
 │   ├── style.css
+
 │   ├── script.js
+
 │   └── 404.html
+
 ├── .env
+
 ├── .gitignore
+
 ├── package.json
+
 ├── server.js
+
 └── README.md
+
 ____________________________________________________________________________________________________________________________________________________
 ⚙️ Installation
 
@@ -126,7 +145,8 @@ Lokesh Meena
 🎓 BCA Student
 💻 Full Stack Web Developer
 🌱 Learning Java, Node.js
-GitHub: https://github.com/in/Lokesh-Meena007LinkedIn:www.linkedin.com/in/lokesh-meena-1b4a09383
+GitHub: https://github.com/in/Lokesh-Meena007
+LinkedIn:www.linkedin.com/in/lokesh-meena-1b4a09383
 ____________________________________________________________________________________________________________________________________________________
 📄 License
 
