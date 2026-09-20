@@ -8,18 +8,30 @@ A simple and responsive URL Shortener built using Node.js, Express.js, and Mongo
 ____________________________________________________________________________________________________________________________________________________
 🚀 Features
 
-✅ Shorten long URLs
+✅ Shorten long URLs 
+
 ✅ Generate unique short codes
+
 ✅ Custom alias support
+
 ✅ URL validation
+
 ✅ Redirect to original URL
+
 ✅ Store URLs in MongoDB
+
 ✅ Click tracking
+
 ✅ QR Code generation
+
 ✅ Copy shortened URL
+
 ✅ Delete shortened URLs
+
 ✅ Responsive user interface
+____________________________________________________________________________________________________________________________________________________
 🛠️ Tech Stack
+
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js, Express.js
 Database: MongoDB (Mongoose)
@@ -29,41 +41,23 @@ ________________________________________________________________________________
 
 CodeAlpha_URLShortener/
 │
-
 ├── config/
-
 │   └── db.js
-
 ├── controllers/
-
 │   └── urlController.js
-
 ├── models/
-
 │   └── Url.js
-
 ├── routes/
-
 │   └── urlRoutes.js
-
 ├── public/
-
 │   ├── index.html
-
 │   ├── style.css
-
 │   ├── script.js
-
 │   └── 404.html
-
 ├── .env
-
 ├── .gitignore
-
 ├── package.json
-
 ├── server.js
-
 └── README.md
 
 ____________________________________________________________________________________________________________________________________________________
